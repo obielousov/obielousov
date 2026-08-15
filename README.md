@@ -1,7 +1,7 @@
 # Oleh Bielousov
 ## Web Developer
 
-I build responsive, well-structured websites — from Figma design to a finished implementation: landing pages, multi-page sites, corporate and portfolio websites, and simple e-commerce.
+I build responsive, well-structured websites — from Figma design to a finished implementation: landing pages, multi-page sites, corporate and portfolio websites.
 
 **Tech Stack:** HTML · CSS · SCSS · PostHTML · Vite · Git · Figma 
 
