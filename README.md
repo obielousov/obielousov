@@ -1,7 +1,7 @@
 # Oleh Bielousov
 ## Web Developer
 
-I build responsive, well-structured websites — from Figma designs to a finished implementation: landing pages, multi-page sites, corporate and portfolio websites.
+I build responsive, well-structured websites — from Figma designs to a finished implementations: landing pages, multi-page sites, corporate and portfolio websites.
 
 **Tech Stack:** HTML · CSS · SCSS · Vanilla JS · PostHTML · Vite · Git · Figma 
 
@@ -10,7 +10,7 @@ I build responsive, well-structured websites — from Figma designs to a finishe
 - **[RealState](https://obielousov.github.io/real-state-/) — Multi-page website for a real estate company.**
 - **[Selhono](https://obielousov.github.io/Selhono-/) — Multi-page website for an interior design studio.**
 - **[Parfum](https://obielousov.github.io/Parfum---ecommerce-/) — E-commerce website for a perfume brand.**
-- **[Veloretti](https://obielousov.github.io/veloretti-/) — Multi-page website for an electric bikes brand.**
+- **[Veloretti](https://obielousov.github.io/veloretti-/) — Multi-page website for an electric bike brand.**
 - **[MNTN](https://obielousov.github.io/MNTN_landing_page-/) — Landing page for a hiking guide.**
 - **[Qitchen](https://obielousov.github.io/sushi-/) — Multi-page website for a sushi restaurant.**
 
