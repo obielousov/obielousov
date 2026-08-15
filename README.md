@@ -12,6 +12,7 @@ I build responsive, well-structured websites — from Figma design to a finished
 - **[Parfum](https://obielousov.github.io/Parfum---ecommerce-/) — E-commerce website for a perfume brand.**
 - **[Veloretti](https://obielousov.github.io/veloretti-/) — Multi-page website for an electric bikes brand.**
 - **[MNTN](https://obielousov.github.io/MNTN_landing_page-/) — Landing page for a hiking guide.**
+- **[Qitchen](https://obielousov.github.io/sushi-/) — Multi-page website for a sushi restaurant.**
 
 
 ## Currently
