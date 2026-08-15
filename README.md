@@ -3,7 +3,7 @@
 
 I build responsive, well-structured websites — from Figma design to a finished implementation: landing pages, multi-page sites, corporate and portfolio websites.
 
-**Tech Stack:** HTML · CSS · SCSS · PostHTML · Vite · Git · Figma 
+**Tech Stack:** HTML · CSS · SCSS · Vanilla JS · PostHTML · Vite · Git · Figma 
 
 ## Featured Projects
 
