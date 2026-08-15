@@ -1,16 +1,26 @@
-## Hi there 👋
+# Oleg Bielousov
+## Web Developer
 
-<!--
-**obielousov/obielousov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive, well-structured websites — from Figma design to a finished implementation: landing pages, multi-page sites, corporate and portfolio websites, and simple e-commerce.
 
-Here are some ideas to get you started:
+**Tech Stack:** HTML · CSS · SCSS · PostHTML · Vite · Git · Figma 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- **[RealState](https://obielousov.github.io/real-state-/) — Real estate multi-page website with interactive search, property catalog, and map.**
+- **[Selhono](https://obielousov.github.io/Selhono-/) — Multi-page website for an interior design studio with project catalog, filters, and reviews.**
+- **[Parfum](https://obielousov.github.io/Parfum---ecommerce-/) — Multi-page e-commerce website for a perfume brand with premium scroll animations.**
+- **[Veloretti](https://obielousov.github.io/veloretti-/) — Multi-page website for an electric bikes brand with product pages and a cities guide.**
+- **[MNTN](https://obielousov.github.io/MNTN_landing_page-/) — Cinematic landing page for a hiking guide with layered parallax and smooth scrolling.**
+
+## Currently
+
+Learning PHP and WordPress — working toward my first freelance projects.
+
+## A Little About Me
+
+Professional cellist with a background in orchestral performance.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/obielousov/) · [olegbielousov@gmail.com](mailto:olegbielousov@gmail.com)
