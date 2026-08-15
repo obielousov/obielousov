@@ -17,7 +17,7 @@ I build responsive, well-structured websites — from Figma design to a finished
 
 ## Currently
 
-Learning PHP and WordPress — working toward my first freelance projects.
+Learning PHP and WordPress
 
 ## A Little About Me
 
